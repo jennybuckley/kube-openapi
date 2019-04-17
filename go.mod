@@ -15,7 +15,7 @@ require (
 	github.com/go-openapi/swag v0.0.0-20160704191624-1d0bd113de87 // indirect
 	github.com/golang/protobuf v0.0.0-20161109072736-4bd1920723d7
 	github.com/google/gofuzz v0.0.0-20161122191042-44d81051d367
-	github.com/googleapis/gnostic v0.0.0-20170426233943-68f4ded48ba9
+	github.com/googleapis/gnostic v0.2.0
 	github.com/json-iterator/go v0.0.0-20180612202835-f2b4162afba3
 	github.com/mailru/easyjson v0.0.0-20160728113105-d5b7844b561a // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
@@ -30,8 +30,9 @@ require (
 	golang.org/x/sys v0.0.0-20170830134202-bb24a47a89ea // indirect
 	golang.org/x/text v0.0.0-20160726164857-2910a502d2bf // indirect
 	golang.org/x/tools v0.0.0-20181011042414-1f849cf54d09 // indirect
-	gopkg.in/yaml.v2 v2.2.1
+	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
+	gopkg.in/yaml.v2 v2.2.2
 	k8s.io/gengo v0.0.0-20190128074634-0689ccc1d7d6
 	k8s.io/klog v0.0.0-20181102134211-b9b56d5dfc92
-	sigs.k8s.io/structured-merge-diff v0.0.0-20181214233322-d43a45b8663b
+	sigs.k8s.io/structured-merge-diff v0.0.0-20190416230737-b2ed7e1d99f6
 )
